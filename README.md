@@ -1,1 +1,1 @@
-# DCHE-water-
+# Desiccant-Coated-Heat-Exchangers (WATER as REFRIGERANT)
